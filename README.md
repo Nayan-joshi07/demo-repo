@@ -1,13 +1,11 @@
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nayan-joshi-93271b202/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=champmaniac&label=Profile%20views&color=0e75b6&style=flat" alt="champmaniac" /> </p>
-
 Former SWE @BombayPlay.
 A Front End Developer using JavaScript Technologies. Super nerd who loves JavaScript
 & its frameworks, libraries and enjoys to customize all of the development environment.Love Problem Solving & Learn New Algorithms.
 
 - 🌱 I’m a enthusiast and currently all into ReactNative, ReactJS. 🧡
-- 💬 Ask me about ReactNative, TypeScript , JavaScript, Express.js, Django, career or technology advice.. 🙌
+- 💬 Ask me about ReactNative, TypeScript , JavaScript, career or technology advice.. 🙌
 - 👯 I’m looking to collaborate with other open source contributor
 - ⚡ Fun fact: I am on Laptop more than half of the day.
 
